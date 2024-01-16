@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @SrastiVerma
-- 👀 I’m interested in coding.
-- 🌱 I’m currently learning Python, C, C++, HTML, CSS and MySQL
-- 💞️ I’m looking to collaborate on projects that will help me be more creative
+- 🌱 Flutter dev
+- 💞️ I’m looking to collaborate on projects
 - 📫 
 
 <!---
